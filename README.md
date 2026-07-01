@@ -1,8 +1,8 @@
 # Finance Analysis Dashboard using Power BI
 # Dashboard Preview
-![Dashboard Preview](screenshots/.dashboard-overview.png)
-![Dashboard Preview](screenshots/.dashboard-transaction.png)
-![Dashboard Preview](screenshots/.data-model.png)
+![Dashboard Preview](screenshots/dashboard-overview.png)
+![Dashboard Preview](screenshots/dashboard-transaction.png)
+![Dashboard Preview](screenshots/data-model.png)
 
 ## Project Overview
 
